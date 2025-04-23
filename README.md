@@ -1,5 +1,6 @@
 # Music-Evolved
 A music visualizer was made using Blender with a few nodes and baked noise.
+
 # Instructions
 Here are the steps to making your own visualizer
 1.![image](https://github.com/user-attachments/assets/f482ad0a-ec93-4eb0-b947-5276c31e821a)
