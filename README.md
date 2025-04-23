@@ -3,10 +3,13 @@ A music visualizer was made using Blender with a few nodes and baked noise.
 # Instructions
 Here are the steps to making your own visualizer
 1.![image](https://github.com/user-attachments/assets/f482ad0a-ec93-4eb0-b947-5276c31e821a)
+
 Create a basic plane and box
+
 2. Go into edit mode with the plane selected and subdivide the mesh until you get a large number of squares.
 The more subdivisions, the more detailed the final render will be. I chose to do 30 subdivisions.
 Also, increase height and decrease x and y size, then bevel the cube slightly in edit mode so that the cubes look a little more realistic.
+
 3. Go into geometry nodes and create the following layout: 
 ![image](https://github.com/user-attachments/assets/70606bab-2bf0-4ada-b6b7-9fb2878abdf2)
 
