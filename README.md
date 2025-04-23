@@ -1,3 +1,3 @@
 # Music-Evolved
-Music visualizer made using blender with a few nodes as well as baked noise.
+A music visualizer was made using Blender with a few nodes and baked noise.
 # Video
