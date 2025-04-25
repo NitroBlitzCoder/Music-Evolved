@@ -25,10 +25,12 @@ You can also control the length and width of cubes using the combine xyz node, w
 As for the noise texture, it will displace the cubes.
 6. (Optional) If you choose to, you may change the w value in the modifiers tab of the plane, which will change the seed of the noise texture, but I recommend you set it to 0 for the best result.
 7. Now you have to animate the plane. Click the animate button for scale:
+   
 ![image](https://github.com/user-attachments/assets/16a43ded-55b9-4d44-b096-f8bc692e2b62)
 
 And change your timeline to the graph editor and go to channel, then sound to samples, and choose the audio track that you want to use.
 Make sure to change the frames so that it includes the entire song
+
 ![image](https://github.com/user-attachments/assets/9dbd9e67-5817-4a0a-b94f-d02abd53e245)
 
 8. Go to the video editor and add your soundtrack and press play that's it!
