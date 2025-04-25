@@ -13,6 +13,7 @@ The more subdivisions, the more detailed the final render will be. I chose to do
 ![image](https://github.com/user-attachments/assets/d71ccde4-d67c-4895-9bed-f199da54b382)
 
 Also, increase height and decrease x and y size, then bevel the cube slightly in edit mode so that the cubes look a little more realistic.
+
 ![image](https://github.com/user-attachments/assets/2a872f89-e4dc-44ce-a0a8-dcd8447f5e9c)
 
 4. Go into geometry nodes and create the following layout: 
@@ -27,9 +28,8 @@ As for the noise texture, it will displace the cubes.
 ![image](https://github.com/user-attachments/assets/16a43ded-55b9-4d44-b096-f8bc692e2b62)
 
 And change your timeline to the graph editor and go to channel, then sound to samples, and choose the audio track that you want to use.
+Make sure to change the frames so that it includes the entire song
 ![image](https://github.com/user-attachments/assets/9dbd9e67-5817-4a0a-b94f-d02abd53e245)
 
 8. Go to the video editor and add your soundtrack and press play that's it!
 ![image](https://github.com/user-attachments/assets/104d0f07-a66f-4fcb-b3e5-78c705499db8)
-
-Make sure to change the frames so that it includes the entire song.
